@@ -1,0 +1,6 @@
+Debug/**
+build/**
+todo.md
+*.srec
+*.bin
+image-compression.out
